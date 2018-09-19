@@ -14,6 +14,12 @@ This project covers foundational AI concepts, such as informed state-space searc
 > finished in 7.5 hours
 
 ## 2  Multi-Agent Search
+* Reflex Agent
+* Minimax Search
+* Alpha-Beta Pruning
+* Expectimax Search
+* Evaluation Function
+> finished in 4.5 hours
 
 ## 3  Reinforcement Learning
 
