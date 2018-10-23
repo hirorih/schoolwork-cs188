@@ -22,6 +22,14 @@ This project covers foundational AI concepts, such as informed state-space searc
 > finished in 4.5 hours
 
 ## 3  Reinforcement Learning
+* Value Iteration
+* Policies
+* Asynchronous Value Iteration
+* Prioritized Sweeping Value Iteration
+* Q-Learning
+* Epsiloln Greedy
+* Approximate Q-Learning
+> finished in 5 hours
 
 ## 4  Probabilistic inference
 
