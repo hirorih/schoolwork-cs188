@@ -28,4 +28,4 @@ This project covers foundational AI concepts, such as informed state-space searc
 ## 5  Classification
 
 
-> I made this repo temporally for job interviews.
+> I made this repo public temporally for job interviews.
