@@ -27,14 +27,20 @@ This project covers foundational AI concepts, such as informed state-space searc
 * Asynchronous Value Iteration
 * Prioritized Sweeping Value Iteration
 * Q-Learning
+<<<<<<< HEAD
 * Epsilon Greedy
 * Q-Learning Pacman
 * Approximate Q-Learning
 > in 5 hours
+=======
+* Epsiloln Greedy
+* Approximate Q-Learning
+> finished in 5 hours
+>>>>>>> f6b18f4de17ce475f781c5c343b6133e343fa110
 
 ## 4  Probabilistic inference
 
 ## 5  Classification
 
 
-> I made this repo temporally for job interviews.
+> I made this repo public temporally for job interviews.
