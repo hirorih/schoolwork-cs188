@@ -11,7 +11,6 @@ This project covers foundational AI concepts, such as informed state-space searc
 * Uniformed-cost Search
 * A* Search
 * Admissible Heuristics for optimal Search
-> finished in 7.5 hours
 
 ## 2  Multi-Agent Search
 * Reflex Agent
@@ -19,7 +18,6 @@ This project covers foundational AI concepts, such as informed state-space searc
 * Alpha-Beta Pruning
 * Expectimax Search
 * Evaluation Function
-> finished in 4.5 hours
 
 ## 3  Reinforcement Learning
 * Value Iteration
@@ -27,16 +25,8 @@ This project covers foundational AI concepts, such as informed state-space searc
 * Asynchronous Value Iteration
 * Prioritized Sweeping Value Iteration
 * Q-Learning
-<<<<<<< HEAD
-* Epsilon Greedy
-* Q-Learning Pacman
-* Approximate Q-Learning
-> in 5 hours
-=======
-* Epsiloln Greedy
-* Approximate Q-Learning
-> finished in 5 hours
->>>>>>> f6b18f4de17ce475f781c5c343b6133e343fa110
+
+
 
 ## 4  Probabilistic inference
 
