@@ -1,5 +1,5 @@
-# CS188 Artificial Intelligence (in progress)
-An introductory course to AI.
+# CS188 Artificial Intelligence 
+An introductory course to AI. URL(https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
 
 ### The Pac-Man Project in Python
 Apply an array of AI techniques to playing Pac-Man.
