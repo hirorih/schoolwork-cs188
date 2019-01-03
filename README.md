@@ -29,7 +29,7 @@ Model-based and model-free reinforcement learning algorithms, applied to the AIM
 * Prioritized Sweeping Value Iteration
 * Q-Learning
 
-## 4  Probabilistic inference
+## 4  Ghostbusters
 Probabilistic inference in a hidden Markov model tracks the movement of hidden ghosts in the Pacman world.
 * Exact Inference
 * Approximate Inference
