@@ -5,13 +5,15 @@ An introductory course to AI. (https://inst.eecs.berkeley.edu/~cs188/fa18/index.
 Apply an array of AI techniques to playing Pac-Man.
 This project covers foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning.
 
-## 1  Search
+## 1  Search 
 These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
 * Breadth First Search
 * Depth First Search
 * Uniformed-cost Search
 * A* Search
 * Admissible Heuristics for optimal Search
+
+(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/search/search.py, https://github.com/hirorih/schoolwork-cs188/blob/master/search/searchAgents.py)
 
 ## 2  Multi-Agent Search
 Classic Pacman is modeled as both an adversarial and a stochastic search problem. 
@@ -20,6 +22,8 @@ Classic Pacman is modeled as both an adversarial and a stochastic search problem
 * Alpha-Beta Pruning
 * Expectimax Search
 * Evaluation Function
+
+(File edited )
 
 ## 3  Reinforcement Learning
 Model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
