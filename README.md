@@ -23,7 +23,7 @@ Classic Pacman is modeled as both an adversarial and a stochastic search problem
 * Expectimax Search
 * Evaluation Function
 
-(File edited )
+(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/multiagent/multiAgents.py)
 
 ## 3  Reinforcement Learning
 Model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
@@ -33,10 +33,14 @@ Model-based and model-free reinforcement learning algorithms, applied to the AIM
 * Prioritized Sweeping Value Iteration
 * Q-Learning
 
+(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/reinforcement/valueIterationAgents.py, https://github.com/hirorih/schoolwork-cs188/blob/master/reinforcement/qlearningAgents.py)
+
 ## 4  Ghostbusters
 Probabilistic inference in a hidden Markov model tracks the movement of hidden ghosts in the Pacman world.
 * Exact Inference
 * Approximate Inference
 * Joint Particle Filter
+
+(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/bustersAgents.py,https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/inference.py,https://github.com/hirorih/schoolwork-cs188/blob/master/search/search.py)
 
 > I made this repo public temporally for job interviews.
