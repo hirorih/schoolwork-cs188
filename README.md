@@ -41,6 +41,6 @@ Probabilistic inference in a hidden Markov model tracks the movement of hidden g
 * Approximate Inference
 * Joint Particle Filter
 
-(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/bustersAgents.py,https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/inference.py,https://github.com/hirorih/schoolwork-cs188/blob/master/search/search.py)
+(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/bustersAgents.py, https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/inference.py, https://github.com/hirorih/schoolwork-cs188/blob/master/search/search.py)
 
 > I made this repo public temporally for job interviews.
