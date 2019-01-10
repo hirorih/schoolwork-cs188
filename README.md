@@ -13,7 +13,7 @@ These algorithms are used to solve navigation and traveling salesman problems in
 * A* Search
 * Admissible Heuristics for optimal Search
 
-(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/search/search.py, https://github.com/hirorih/schoolwork-cs188/blob/master/search/searchAgents.py)
+File edited [search.py](https://github.com/hirorih/schoolwork-cs188/blob/master/search/search.py), [searchAgent.py](https://github.com/hirorih/schoolwork-cs188/blob/master/search/searchAgents.py)
 
 ## 2  Multi-Agent Search
 Classic Pacman is modeled as both an adversarial and a stochastic search problem. 
@@ -23,7 +23,7 @@ Classic Pacman is modeled as both an adversarial and a stochastic search problem
 * Expectimax Search
 * Evaluation Function
 
-(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/multiagent/multiAgents.py)
+File edited [multiAgents.py](https://github.com/hirorih/schoolwork-cs188/blob/master/multiagent/multiAgents.py)
 
 ## 3  Reinforcement Learning
 Model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
@@ -33,7 +33,7 @@ Model-based and model-free reinforcement learning algorithms, applied to the AIM
 * Prioritized Sweeping Value Iteration
 * Q-Learning
 
-(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/reinforcement/valueIterationAgents.py, https://github.com/hirorih/schoolwork-cs188/blob/master/reinforcement/qlearningAgents.py)
+File edited [valueIterationAgents.py](https://github.com/hirorih/schoolwork-cs188/blob/master/reinforcement/valueIterationAgents.py), [qlearningAgents.py](https://github.com/hirorih/schoolwork-cs188/blob/master/reinforcement/qlearningAgents.py)
 
 ## 4  Ghostbusters
 Probabilistic inference in a hidden Markov model tracks the movement of hidden ghosts in the Pacman world.
@@ -41,6 +41,6 @@ Probabilistic inference in a hidden Markov model tracks the movement of hidden g
 * Approximate Inference
 * Joint Particle Filter
 
-(File edited https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/bustersAgents.py, https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/inference.py, https://github.com/hirorih/schoolwork-cs188/blob/master/search/search.py)
+File edited [busterAgents.py](https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/bustersAgents.py), [inference.py](https://github.com/hirorih/schoolwork-cs188/blob/master/ghostbusters/inference.py)
 
 > I made this repo public temporally for job interviews.
